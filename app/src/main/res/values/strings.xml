@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Eventure</string>
+    <string name="app_name2">Android-project2</string>
+    <string name="title_activity_log">LogActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string-array name="filter_array">
+        <item>Filter</item>
+        <item>Art</item>
+        <item>Music</item>
+        <item>Health</item>
+        <item>Comedy</item>
+        <item>Food &amp; Drink</item>
+    </string-array>
+    <string name="comedy_desc">Four of the best UK comedians including award winners and TV acts. New line-ups every week.</string>
+    <string name="comedy_desc3">Doors 8:00pm, show 9:00pm. New 70 minute show format with Covid-safe measures.</string>
+    <string name="music_desc">SWG3 presents the diverse sounds of tech-house producer, Patrick Topping - 18+ only</string>
+    <string name="music_desc3">Note: If you are disabled or have mobility issues, please read the FAQ section of the SWG3 website before purchasing tickets.</string>
+    <string name="title_activity_search">search</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string-array name="my_events">
+        <item>Comedy</item>
+        <item>Arts</item>
+        <item>Music</item>
+        <item>Patrick Topping</item>
+        <item>SWG3</item>
+        <item>Rotunda</item>
+        <item>The Late Comedy Show</item>
+    </string-array>
+    <string name="title_activity_contact">contact</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string-array name="events">
+        <item>The Late Show </item>
+        <item>Patrick Topping</item>
+        <item>TRNSMT</item>
+        <item>48 Hour Party People Winter Weekender </item>
+    </string-array>
+
+    <string-array name="places">
+        <item>Rotunda Comedy Club | Thur, Nov 18 - 10:00 pm</item>
+        <item>SWG3 - Galvanizers Yard | Thur, Nov 11 - 8:00 pm</item>
+        <item>Glasgow Green | Friday 8th – Sunday 10th July 2022</item>
+        <item>121 Eglinton St, Glasgow G5 9NT, UK | 3rd Dec 2021 to 4th Dec 2021</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Four of the best UK comedians including award winners and TV acts. New line-ups every week.</item>
+        <item>SWG3 presents the diverse sounds of tech-house producer, Patrick Topping - 18+ only</item>
+        <item>After an unforgettable three days of music in Glasgow Green, we’re delighted to announce the first artists on the line up for 2022’s event. Headlining will be Paolo Nutini, The Strokes and Lewis Capaldi, joined by The Snuts, Jimmy Eat World, Foals, Wolf Alice, Fontaines D.C., Sigrid and Beabadoobee from Friday 8th – Sunday 10th July 2022.</item>
+        <item>The best tribute bands in the business descend on Glasgow for a weekend of live music, With tributes to, Oasis, Blur, Stone Roses, Happy Mondays, James, Pulp The Smiths and Shed Seven</item>
+    </string-array>
+</resources>
